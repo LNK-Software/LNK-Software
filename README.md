@@ -7,6 +7,7 @@
 
 <div align="center"> Optimizing Experiences & Building Digital Foundations </div>
 <div align="center"> Based in Germany | Passionate about performance-driven development </div>
+
 ---
   
 ## <div align="center">What I Bring to the Table:</div>
@@ -21,6 +22,7 @@
   
 🔍 Game/Software Analyst: Deconstruct systems through engineer & end-user lenses
 </div>
+
 ---
 
 ## <div align="center">📊 GITHUB STATISTICS</div>
