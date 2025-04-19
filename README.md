@@ -1,6 +1,8 @@
 
 # <div align="center"> Hello visitor! :wave: </div>
 
+<br />
+
 ---
 ## <div align="center"> 🚀 Software Craftsman </div>
 
@@ -8,6 +10,8 @@
 <div align="center"> Based in Germany | Passionate about performance-driven development </div>
 
 ---
+
+<br />
   
 ## <div align="center"> 🔨 What I Bring to the Table: </div>
 <div align="center">
@@ -23,6 +27,8 @@
 </div>
 
 ---
+
+<br />
 
 ## <div align="center"> 📊 GITHUB STATISTICS </div>
 
@@ -51,5 +57,10 @@
   <img src="https://profile-counter.glitch.me/LNK-Software/count.svg" />
 </p>
 
+<br />
+
+<br />
+
+<br />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?pause=700&color=F70000&center=true&vCenter=true&width=450&lines=...;ERROR+404)](https://git.io/typing-svg)
