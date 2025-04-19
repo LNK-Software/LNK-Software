@@ -3,6 +3,7 @@
 ---
 
 <br />
+
 ## <div align="center"> 🚀 Software Craftsman </div>
 
 <div align="center"> Optimizing Experiences & Building Digital Foundations </div>
@@ -11,6 +12,7 @@
 ---
 
 <br />
+
 ## <div align="center"> 🔨 What I Bring to the Table: </div>
 <div align="center">
 🎮 6+ years crafting optimized Lua/Luau systems for Roblox games (30k+ visit successes)
@@ -27,6 +29,7 @@
 ---
 
 <br />
+
 ## <div align="center"> 📊 GITHUB STATISTICS </div>
 
 <p align="center">
