@@ -1,5 +1,5 @@
 
-# Hello visitor! :wave:
+<div align="center"> Hello visitor! :wave: </div>
 
 <div align="center"> 🚀 Software Craftsman </div>
 <div align="center"> Optimizing Experiences & Building Digital Foundations </div>
@@ -7,7 +7,7 @@
 
 
   ### What I Bring to the Table:
-  
+  <div align="center">
   <summary>🎮 6+ years crafting optimized Lua/Luau systems for Roblox games (30k+ visit successes)</summary>
   
   <summary>⚡ OS/Software Whisperer: Specialize in squeezing maximum performance from Windows environments</summary>
@@ -17,6 +17,7 @@
   <summary>🛠️ Built lightweight Windows utilities in Zig - simple solutions for complex problems</summary>
   
   <summary>🔍 Game/Software Analyst: Deconstruct systems through engineer & end-user lenses</summary>
+  </div>
 
 
 # 📊 GITHUB STATISTICS
