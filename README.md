@@ -1,3 +1,21 @@
+
+# Hello visitor! :wave:
+
+# 🚀 Software Craftsman | Optimizing Experiences & Building Digital Foundations
+## Based in Germany | Passionate about performance-driven development
+
+# What I Bring to the Table:
+
+🎮 6+ years crafting optimized Lua/Luau systems for Roblox games (30k+ visit successes)
+
+⚡ OS/Software Whisperer: Specialize in squeezing maximum performance from Windows environments
+
+🧠 Dual-Perspective Developer: Architect codebases with both technical rigor and user-centric design
+
+🛠️ Built lightweight Windows utilities in Zig - simple solutions for complex problems
+
+🔍 Game/Software Analyst: Deconstruct systems through engineer & end-user lenses
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=LNK-Software&theme=transparent&border_radius=10&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=600&card_height=200&stroke=0068EB" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api?username=LNK-Software&show_icons=true&theme=transparent" alt="LNK-Software's GitHub stats" />
