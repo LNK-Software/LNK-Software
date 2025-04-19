@@ -4,7 +4,6 @@
 <br />
 
 ## <div align="center"> 🚀 Software Craftsman </div>
-
 <div align="center"> Optimizing Experiences & Building Digital Foundations </div>
 <div align="center"> Based in Germany | Passionate about performance-driven development </div>
 
