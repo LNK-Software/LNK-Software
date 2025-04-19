@@ -4,7 +4,8 @@
 # 🚀 Software Craftsman | Optimizing Experiences & Building Digital Foundations
 ## Based in Germany | Passionate about performance-driven development
 
-# What I Bring to the Table:
+
+### What I Bring to the Table:
 
 🎮 6+ years crafting optimized Lua/Luau systems for Roblox games (30k+ visit successes)
 
