@@ -2,26 +2,27 @@
 # <div align="center"> Hello visitor! :wave: </div>
 
 # <div align="center"> 🚀 Software Craftsman </div>
+
 <div align="center"> Optimizing Experiences & Building Digital Foundations </div>
 <div align="center"> Based in Germany | Passionate about performance-driven development </div>
 
 
   
-  #<div align="center">What I Bring to the Table:</div>
-  <div align="center">
-  🎮 6+ years crafting optimized Lua/Luau systems for Roblox games (30k+ visit successes)
+# <div align="center">What I Bring to the Table:</div>
+<div align="center">
+🎮 6+ years crafting optimized Lua/Luau systems for Roblox games (30k+ visit successes)
   
-  ⚡ OS/Software Whisperer: Specialize in squeezing maximum performance from Windows environments
+⚡ OS/Software Whisperer: Specialize in squeezing maximum performance from Windows environments
   
-  🧠 Dual-Perspective Developer: Architect codebases with both technical rigor and user-centric design
+🧠 Dual-Perspective Developer: Architect codebases with both technical rigor and user-centric design
   
-  🛠️ Built lightweight Windows utilities in Zig - simple solutions for complex problems
+🛠️ Built lightweight Windows utilities in Zig - simple solutions for complex problems
   
-  🔍 Game/Software Analyst: Deconstruct systems through engineer & end-user lenses
-  </div>
+🔍 Game/Software Analyst: Deconstruct systems through engineer & end-user lenses
+</div>
 
 
-#<div align="center">📊 GITHUB STATISTICS</div>
+# <div align="center">📊 GITHUB STATISTICS</div>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=LNK-Software&theme=transparent&border_radius=10&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=600&card_height=200&stroke=0068EB" alt="GitHub Streak" />
