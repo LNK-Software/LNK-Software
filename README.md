@@ -11,6 +11,10 @@
   <img src="https://img.shields.io/badge/Zig-11111C?style=for-the-badge&logo=zig&logoColor=F7DF1E" alt="Zig" />
 </p>
 
+<a href="https://github.com/LNK-Software/LNK-Software">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LNK-Software&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+
 <p align="center"> 
   Visitors count<br>
   <img src="https://profile-counter.glitch.me/LNK-Software/count.svg" />
