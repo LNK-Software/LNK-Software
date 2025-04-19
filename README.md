@@ -1,9 +1,11 @@
 
 # Hello visitor! :wave:
 
-# 🚀 Software Craftsman | Optimizing Experiences & Building Digital Foundations
+# 🚀 Software Craftsman
+<div align="center"> Optimizing Experiences & Building Digital Foundations </div>
 <div align="center"> Based in Germany | Passionate about performance-driven development </div>
 
+<summary>
   ### What I Bring to the Table:
   
   🎮 6+ years crafting optimized Lua/Luau systems for Roblox games (30k+ visit successes)
@@ -15,7 +17,7 @@
   🛠️ Built lightweight Windows utilities in Zig - simple solutions for complex problems
   
   🔍 Game/Software Analyst: Deconstruct systems through engineer & end-user lenses
-
+</summary>
 
 
 # 📊 GITHUB STATISTICS
