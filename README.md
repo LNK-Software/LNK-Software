@@ -52,4 +52,4 @@
 </p>
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/demo/?pause=700&color=F70000&center=true&vCenter=true&width=450&lines=...;ERROR+404)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?pause=700&color=F70000&center=true&vCenter=true&width=450&lines=...;ERROR+404)](https://git.io/typing-svg)
