@@ -1,7 +1,6 @@
 
 # <div align="center"> Hello visitor! :wave: </div>
 
-
 ---
 ## <div align="center"> 🚀 Software Craftsman </div>
 
@@ -51,3 +50,6 @@
   Visitors count<br>
   <img src="https://profile-counter.glitch.me/LNK-Software/count.svg" />
 </p>
+
+
+<p align="center"> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&color=1EF79A&background=FFFFFF00&multiline=true&width=435&lines=ERROR+404;)](https://git.io/typing-svg)</p>
