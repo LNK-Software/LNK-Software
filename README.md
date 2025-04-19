@@ -52,4 +52,6 @@
 </p>
 
 
-Current brain: [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&color=1EF79A&background=FFFFFF00&multiline=true&width=435&lines=ERROR+404;)](https://git.io/typing-svg)
+<p align="center">
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&color=1EF79A&background=FFFFFF00&multiline=true&width=435&lines=ERROR+404;)](https://git.io/typing-svg)
+</p>
