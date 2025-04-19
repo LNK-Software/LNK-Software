@@ -15,15 +15,17 @@
 
 ## <div align="center"> 🔨 What I Bring to the Table: </div>
 <div align="center">
-🎮 6+ years crafting optimized Lua/Luau systems for Roblox games (30k+ visit successes)
   
-⚡ OS/Software Whisperer: Specialize in squeezing maximum performance from Windows environments
+  🎮 6+ years crafting optimized Lua/Luau systems for Roblox games (30k+ visit successes)
   
-🧠 Dual-Perspective Developer: Architect codebases with both technical rigor and user-centric design
+  ⚡ OS/Software Whisperer: Specialize in squeezing maximum performance from Windows environments
   
-🛠️ Built lightweight Windows utilities in Zig - simple solutions for complex problems
+  🧠 Dual-Perspective Developer: Architect codebases with both technical rigor and user-centric design
   
-🔍 Game/Software Analyst: Deconstruct systems through engineer & end-user lenses
+  🛠️ Built lightweight Windows utilities in Zig - simple solutions for complex problems
+  
+  🔍 Game/Software Analyst: Deconstruct systems through engineer & end-user lenses
+  
 </div>
 
 ---
