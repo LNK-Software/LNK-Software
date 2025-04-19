@@ -1,7 +1,6 @@
 
 # <div align="center"> Hello visitor! :wave: </div>
 ---
-
 <br />
 
 ## <div align="center"> 🚀 Software Craftsman </div>
