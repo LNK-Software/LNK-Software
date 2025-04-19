@@ -5,22 +5,20 @@
 ## Based in Germany | Passionate about performance-driven development
 
 <div align="center">
+  ### What I Bring to the Table:
+  
+  🎮 6+ years crafting optimized Lua/Luau systems for Roblox games (30k+ visit successes)
+  
+  ⚡ OS/Software Whisperer: Specialize in squeezing maximum performance from Windows environments
+  
+  🧠 Dual-Perspective Developer: Architect codebases with both technical rigor and user-centric design
+  
+  🛠️ Built lightweight Windows utilities in Zig - simple solutions for complex problems
+  
+  🔍 Game/Software Analyst: Deconstruct systems through engineer & end-user lenses
 </div>
 
-### What I Bring to the Table:
 
-🎮 6+ years crafting optimized Lua/Luau systems for Roblox games (30k+ visit successes)
-
-⚡ OS/Software Whisperer: Specialize in squeezing maximum performance from Windows environments
-
-🧠 Dual-Perspective Developer: Architect codebases with both technical rigor and user-centric design
-
-🛠️ Built lightweight Windows utilities in Zig - simple solutions for complex problems
-
-🔍 Game/Software Analyst: Deconstruct systems through engineer & end-user lenses
-
-<div align="center">
-</div>
 
 # 📊 GITHUB STATISTICS
 
