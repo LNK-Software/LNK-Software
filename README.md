@@ -4,6 +4,8 @@
 # 🚀 Software Craftsman | Optimizing Experiences & Building Digital Foundations
 ## Based in Germany | Passionate about performance-driven development
 
+<div align="center">
+</div>
 
 ### What I Bring to the Table:
 
@@ -17,6 +19,8 @@
 
 🔍 Game/Software Analyst: Deconstruct systems through engineer & end-user lenses
 
+<div align="center">
+</div>
 
 # 📊 GITHUB STATISTICS
 
