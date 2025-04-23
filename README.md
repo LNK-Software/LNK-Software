@@ -63,8 +63,10 @@
 
 <br />
 
+<!--
 <div align="left">
   Best way to get rich:
 </div>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?pause=700&color=F70000&center=false&vCenter=false&width=450&lines=...;ERROR+404+😁)](https://git.io/typing-svg)
+-->
