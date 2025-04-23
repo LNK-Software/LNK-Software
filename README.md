@@ -63,4 +63,4 @@
 
 <br />
 
-Best way to get rich: [![Typing SVG](https://readme-typing-svg.demolab.com?pause=700&color=F70000&center=true&vCenter=true&width=450&lines=...;ERROR+404)](https://git.io/typing-svg)
+<p align="center"> Best way to get rich: [![Typing SVG](https://readme-typing-svg.demolab.com?pause=700&color=F70000&center=true&vCenter=true&width=450&lines=...;ERROR+404)](https://git.io/typing-svg) </p>
